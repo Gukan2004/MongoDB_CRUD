@@ -1,5 +1,5 @@
 ### 🔹 Register Operation
-![Register](backend/screenshot/P_Creation.png)
+![Register](screenshot/P_Creation.png)
 ![Register](screenshot/M)
 
 ### 🔹 Login Operation
