@@ -4,28 +4,28 @@ Resister opertion in Postman
 ![Register](backend/screenshot/P_Creation.png)
 
 Changes in MongoDB Collection
-![Register](screenshot/MDB_C.png)
+![Register](backend/screenshot/MDB_C.png)
 
 ### 🔹 Login Operation
 
 Login operation in Postman
-![Login](screenshot/P_Retrival.png)
+![Login](backend/screenshot/P_Retrival.png)
 
 ### 🔹 Update Operation
 
 Update Operation in Postman
-![Update](screenshot/P_U.png)
+![Update](backend/screenshot/P_U.png)
 
 Changes in MongoDB Collection
-![Update](screenshot/MDB_U.png)
+![Update](backend/screenshot/MDB_U.png)
 
 ### 🔹 Delete Operation
 
 Delete Operation in Postman
-![Delete](screenshot/P_D.png)
+![Delete](backend/screenshot/P_D.png)
 
 Changes in MongoDB Collection
-![Delete](screenshot/Mdb_D.png)
+![Delete](backend/screenshot/Mdb_D.png)
 
 # 🧩 MongoDB CRUD API with Node.js and Express
 
